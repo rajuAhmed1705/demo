@@ -1,6 +1,8 @@
 {
   "update": [
+    {
     "counter" = 5,
     "queue" = 256
+    }
   ]
 }
