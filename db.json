@@ -1,4 +1,6 @@
 {
-  "counter": "6",
-  "queue" : "245"
+  "update": [
+    "counter" = 5,
+    "queue" = 256
+  ]
 }
